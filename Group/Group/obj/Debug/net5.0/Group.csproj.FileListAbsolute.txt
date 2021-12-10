@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\Group\Group\Group\bin\Debug\net5.0\Group.exe
+C:\Users\asus\Desktop\Group\Group\Group\bin\Debug\net5.0\Group.deps.json
+C:\Users\asus\Desktop\Group\Group\Group\bin\Debug\net5.0\Group.runtimeconfig.json
+C:\Users\asus\Desktop\Group\Group\Group\bin\Debug\net5.0\Group.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Group\Group\Group\bin\Debug\net5.0\Group.dll
+C:\Users\asus\Desktop\Group\Group\Group\bin\Debug\net5.0\ref\Group.dll
+C:\Users\asus\Desktop\Group\Group\Group\bin\Debug\net5.0\Group.pdb
+C:\Users\asus\Desktop\Group\Group\Group\obj\Debug\net5.0\Group.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Group\Group\Group\obj\Debug\net5.0\Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Group\Group\Group\obj\Debug\net5.0\Group.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Group\Group\Group\obj\Debug\net5.0\Group.AssemblyInfo.cs
+C:\Users\asus\Desktop\Group\Group\Group\obj\Debug\net5.0\Group.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Group\Group\Group\obj\Debug\net5.0\Group.dll
+C:\Users\asus\Desktop\Group\Group\Group\obj\Debug\net5.0\ref\Group.dll
+C:\Users\asus\Desktop\Group\Group\Group\obj\Debug\net5.0\Group.pdb
+C:\Users\asus\Desktop\Group\Group\Group\obj\Debug\net5.0\Group.genruntimeconfig.cache
